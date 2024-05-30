@@ -1,6 +1,4 @@
-from sklearn.datasets import load_iris
 import pandas
-iris = load_iris()
 
 df = pandas.read_csv("data/data2.csv", sep=";")
 
@@ -22,10 +20,10 @@ y = df['JEU']  # Utiliser la colonne 'JEU' comme cible
 
 
 from sklearn.model_selection import train_test_split
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.20) # 20% test
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.1) # 10% test
 
 from sklearn.tree import DecisionTreeClassifier
-model = DecisionTreeClassifier(max_depth=25, min_samples_leaf= 15)
+model = DecisionTreeClassifier(max_depth=40, min_samples_leaf= 2)
 
 model.fit(X_train, y_train)
 
