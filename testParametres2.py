@@ -1,20 +1,37 @@
-from sklearn.datasets import load_iris
-import pandas
+import pandas as pd
+import json
 
+# Charger les données depuis le fichier JSON
+file_path = '../../PEIP1/SteamScrap/steam_gamesSortie3.json'
+with open(file_path, 'r') as f:
+    data = json.load(f)
 
-df = pandas.read_csv("data/data4.csv", sep=";")
+# Convertir les données en DataFrame
+rows = []
+for game_id, game_info in data.items():
+    game_info['id'] = game_id
+    rows.append(game_info)
+
+df = pd.DataFrame(rows)
+
+# Afficher les premières lignes pour vérifier
+print(df.head())
+
+# Préparer les données pour l'entraînement
+df_tags = df['tags'].apply(pd.Series).fillna(0)
+df_tags['name'] = df['name']
 
 # Séparer les caractéristiques (X) et la cible (y)
-X = df.drop('JEU', axis=1)  # Utiliser toutes les colonnes sauf 'JEU' comme caractéristiques
-y = df['JEU']  # Utiliser la colonne 'JEU' comme cible
+X = df_tags.drop(columns=['name'])
+y = df_tags['name']
 
 for _ in range(25):
 
     max_accuracy = 0
-    param = ()
+    param = (0,0,0)
 
     for depth in [1,2,3,4,5,6,10,12,15,20,25,30,35,37,38,32,34,40,45]:
-        for samples_leaf in [2,3,5,10,15,20,25,30,35,40]:
+        for samples_leaf in [1,2,3,5,10,15,20,25,30,35,40]:
             for size in [0.1,0.2,0.3,0.25,0.3,0.4,0.45,0.5]:
 
                 from sklearn.model_selection import train_test_split
@@ -30,7 +47,7 @@ for _ in range(25):
 
                 accuracy = accuracy_score(y_test, y_pred)
             
-                #print("Accuracy with", depth, " prof. |", samples_leaf, "samples : " , accuracy)
+                print("Accuracy with", depth, " prof. |", samples_leaf, "samples : " , accuracy)
 
                 if max_accuracy< accuracy:
                     max_accuracy= accuracy

@@ -18,7 +18,7 @@ y = df['JEU']  # Utiliser la colonne 'JEU' comme cible
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.1) # 10% test
 
 
-model = DecisionTreeClassifier(max_depth=40, min_samples_leaf= 2)
+model = DecisionTreeClassifier(max_depth=25, min_samples_leaf= 3)
 col_names =["Multijoueur","Sport","FPS","Monde-ouvert","Violence","Realiste","Action","Strategie","Survie","Plateforme","Simulation","Voiture","Battle-royale","Horreur","Combat","Puzzle"]
 
 model.fit(X_train, y_train)
@@ -168,7 +168,7 @@ def main():
 
 def sortTexte():
     rules = get_rules(model, col_names, df['JEU'])
-    with open("rules.txt", "w") as fr:
+    with open("./rules.txt", "w") as fr:
         i=1
         for r in rules:
             fr.write("Regle{} {}\n".format(i,r))

@@ -51,3 +51,526 @@ Score : 0.8259088581669227
 
 Donc le meilleur param est : 40 prof | 2 sample | 0.1 size.
 Score : 0.8352098259979529
+
+-----------------------------------------
+Accuracy with 37  prof. | 25 samples :  0.0
+Accuracy with 37  prof. | 25 samples :  0.0
+Accuracy with 37  prof. | 25 samples :  0.0
+Accuracy with 37  prof. | 25 samples :  0.0
+Accuracy with 37  prof. | 30 samples :  0.0
+Accuracy with 37  prof. | 30 samples :  0.0
+Accuracy with 37  prof. | 30 samples :  0.0
+Accuracy with 37  prof. | 30 samples :  0.0
+Accuracy with 37  prof. | 30 samples :  0.0
+Accuracy with 37  prof. | 30 samples :  0.0
+Accuracy with 37  prof. | 30 samples :  0.0
+Accuracy with 37  prof. | 30 samples :  0.0
+Accuracy with 37  prof. | 35 samples :  0.0
+Accuracy with 37  prof. | 35 samples :  0.0
+Accuracy with 37  prof. | 35 samples :  0.0
+Accuracy with 37  prof. | 35 samples :  0.0
+Accuracy with 37  prof. | 35 samples :  0.0
+Accuracy with 37  prof. | 35 samples :  0.0
+Accuracy with 37  prof. | 35 samples :  0.0
+Accuracy with 37  prof. | 35 samples :  0.0
+Accuracy with 37  prof. | 40 samples :  0.0
+Accuracy with 37  prof. | 40 samples :  0.0
+Accuracy with 37  prof. | 40 samples :  0.0
+Accuracy with 37  prof. | 40 samples :  0.0
+Accuracy with 37  prof. | 40 samples :  0.0
+Accuracy with 37  prof. | 40 samples :  0.0
+Accuracy with 37  prof. | 40 samples :  0.0
+Accuracy with 37  prof. | 40 samples :  0.0
+Accuracy with 38  prof. | 1 samples :  0.0
+Accuracy with 38  prof. | 1 samples :  0.0
+Accuracy with 38  prof. | 1 samples :  0.0
+Accuracy with 38  prof. | 1 samples :  0.0008
+Accuracy with 38  prof. | 1 samples :  0.0
+Accuracy with 38  prof. | 1 samples :  0.0005
+Accuracy with 38  prof. | 1 samples :  0.0
+Accuracy with 38  prof. | 1 samples :  0.0
+Accuracy with 38  prof. | 2 samples :  0.0
+Accuracy with 38  prof. | 2 samples :  0.0
+Accuracy with 38  prof. | 2 samples :  0.0006666666666666666
+Accuracy with 38  prof. | 2 samples :  0.0008
+Accuracy with 38  prof. | 2 samples :  0.0
+Accuracy with 38  prof. | 2 samples :  0.0
+Accuracy with 38  prof. | 2 samples :  0.00044444444444444447
+Accuracy with 38  prof. | 2 samples :  0.0004
+Accuracy with 38  prof. | 3 samples :  0.0
+Accuracy with 38  prof. | 3 samples :  0.0
+Accuracy with 38  prof. | 3 samples :  0.0
+Accuracy with 38  prof. | 3 samples :  0.0008
+Accuracy with 38  prof. | 3 samples :  0.0006666666666666666
+Accuracy with 38  prof. | 3 samples :  0.0
+Accuracy with 38  prof. | 3 samples :  0.0
+Accuracy with 38  prof. | 3 samples :  0.0
+Accuracy with 38  prof. | 5 samples :  0.0
+Accuracy with 38  prof. | 5 samples :  0.0
+Accuracy with 38  prof. | 5 samples :  0.0006666666666666666
+Accuracy with 38  prof. | 5 samples :  0.0
+Accuracy with 38  prof. | 5 samples :  0.0
+Accuracy with 38  prof. | 5 samples :  0.0005
+Accuracy with 38  prof. | 5 samples :  0.0
+Accuracy with 38  prof. | 5 samples :  0.0
+Accuracy with 38  prof. | 10 samples :  0.002
+Accuracy with 38  prof. | 10 samples :  0.0
+Accuracy with 38  prof. | 10 samples :  0.0
+Accuracy with 38  prof. | 10 samples :  0.0008
+Accuracy with 38  prof. | 10 samples :  0.0006666666666666666
+Accuracy with 38  prof. | 10 samples :  0.0
+Accuracy with 38  prof. | 10 samples :  0.0
+Accuracy with 38  prof. | 10 samples :  0.0004
+Accuracy with 38  prof. | 15 samples :  0.0
+Accuracy with 38  prof. | 15 samples :  0.0
+Accuracy with 38  prof. | 15 samples :  0.0
+Accuracy with 38  prof. | 15 samples :  0.0
+Accuracy with 38  prof. | 15 samples :  0.0
+Accuracy with 38  prof. | 15 samples :  0.0
+Accuracy with 38  prof. | 15 samples :  0.00044444444444444447
+Accuracy with 38  prof. | 15 samples :  0.0
+Accuracy with 38  prof. | 20 samples :  0.0
+Accuracy with 38  prof. | 20 samples :  0.0
+Accuracy with 38  prof. | 20 samples :  0.0
+Accuracy with 38  prof. | 20 samples :  0.0
+Accuracy with 38  prof. | 20 samples :  0.0
+Accuracy with 38  prof. | 20 samples :  0.0
+Accuracy with 38  prof. | 20 samples :  0.0
+Accuracy with 38  prof. | 20 samples :  0.0
+Accuracy with 38  prof. | 25 samples :  0.0
+Accuracy with 38  prof. | 25 samples :  0.0
+Accuracy with 38  prof. | 25 samples :  0.0
+Accuracy with 38  prof. | 25 samples :  0.0
+Accuracy with 38  prof. | 25 samples :  0.0
+Accuracy with 38  prof. | 25 samples :  0.0
+Accuracy with 38  prof. | 25 samples :  0.0
+Accuracy with 38  prof. | 25 samples :  0.0
+Accuracy with 38  prof. | 30 samples :  0.0
+Accuracy with 38  prof. | 30 samples :  0.0
+Accuracy with 38  prof. | 30 samples :  0.0
+Accuracy with 38  prof. | 30 samples :  0.0
+Accuracy with 38  prof. | 30 samples :  0.0
+Accuracy with 38  prof. | 30 samples :  0.0
+Accuracy with 38  prof. | 30 samples :  0.0
+Accuracy with 38  prof. | 30 samples :  0.0
+Accuracy with 38  prof. | 35 samples :  0.0
+Accuracy with 38  prof. | 35 samples :  0.0
+Accuracy with 38  prof. | 35 samples :  0.0
+Accuracy with 38  prof. | 35 samples :  0.0
+Accuracy with 38  prof. | 35 samples :  0.0
+Accuracy with 38  prof. | 35 samples :  0.0
+Accuracy with 38  prof. | 35 samples :  0.0
+Accuracy with 38  prof. | 35 samples :  0.0
+Accuracy with 38  prof. | 40 samples :  0.0
+Accuracy with 38  prof. | 40 samples :  0.0
+Accuracy with 38  prof. | 40 samples :  0.0
+Accuracy with 38  prof. | 40 samples :  0.0
+Accuracy with 38  prof. | 40 samples :  0.0
+Accuracy with 38  prof. | 40 samples :  0.0
+Accuracy with 38  prof. | 40 samples :  0.0
+Accuracy with 38  prof. | 40 samples :  0.0
+Accuracy with 32  prof. | 1 samples :  0.002
+Accuracy with 32  prof. | 1 samples :  0.001
+Accuracy with 32  prof. | 1 samples :  0.0006666666666666666
+Accuracy with 32  prof. | 1 samples :  0.0
+Accuracy with 32  prof. | 1 samples :  0.0006666666666666666
+Accuracy with 32  prof. | 1 samples :  0.0005
+Accuracy with 32  prof. | 1 samples :  0.0
+Accuracy with 32  prof. | 1 samples :  0.0004
+Accuracy with 32  prof. | 2 samples :  0.0
+Accuracy with 32  prof. | 2 samples :  0.0
+Accuracy with 32  prof. | 2 samples :  0.0
+Accuracy with 32  prof. | 2 samples :  0.0
+Accuracy with 32  prof. | 2 samples :  0.0006666666666666666
+Accuracy with 32  prof. | 2 samples :  0.0005
+Accuracy with 32  prof. | 2 samples :  0.0
+Accuracy with 32  prof. | 2 samples :  0.0004
+Accuracy with 32  prof. | 3 samples :  0.0
+Accuracy with 32  prof. | 3 samples :  0.0
+Accuracy with 32  prof. | 3 samples :  0.0
+Accuracy with 32  prof. | 3 samples :  0.0
+Accuracy with 32  prof. | 3 samples :  0.0006666666666666666
+Accuracy with 32  prof. | 3 samples :  0.0
+Accuracy with 32  prof. | 3 samples :  0.0
+Accuracy with 32  prof. | 3 samples :  0.0004
+Accuracy with 32  prof. | 5 samples :  0.0
+Accuracy with 32  prof. | 5 samples :  0.0
+Accuracy with 32  prof. | 5 samples :  0.0
+Accuracy with 32  prof. | 5 samples :  0.0
+Accuracy with 32  prof. | 5 samples :  0.0
+Accuracy with 32  prof. | 5 samples :  0.0
+Accuracy with 32  prof. | 5 samples :  0.0
+Accuracy with 32  prof. | 5 samples :  0.0
+Accuracy with 32  prof. | 10 samples :  0.0
+Accuracy with 32  prof. | 10 samples :  0.0
+Accuracy with 32  prof. | 10 samples :  0.0
+Accuracy with 32  prof. | 10 samples :  0.0
+Accuracy with 32  prof. | 10 samples :  0.0
+Accuracy with 32  prof. | 10 samples :  0.0
+Accuracy with 32  prof. | 10 samples :  0.0
+Accuracy with 32  prof. | 10 samples :  0.0
+Accuracy with 32  prof. | 15 samples :  0.0
+Accuracy with 32  prof. | 15 samples :  0.0
+Accuracy with 32  prof. | 15 samples :  0.0
+Accuracy with 32  prof. | 15 samples :  0.0
+Accuracy with 32  prof. | 15 samples :  0.0
+Accuracy with 32  prof. | 15 samples :  0.0
+Accuracy with 32  prof. | 15 samples :  0.0
+Accuracy with 32  prof. | 15 samples :  0.0
+Accuracy with 32  prof. | 20 samples :  0.0
+Accuracy with 32  prof. | 20 samples :  0.0
+Accuracy with 32  prof. | 20 samples :  0.0
+Accuracy with 32  prof. | 20 samples :  0.0
+Accuracy with 32  prof. | 20 samples :  0.0
+Accuracy with 32  prof. | 20 samples :  0.0
+Accuracy with 32  prof. | 20 samples :  0.0
+Accuracy with 32  prof. | 20 samples :  0.0
+Accuracy with 32  prof. | 25 samples :  0.0
+Accuracy with 32  prof. | 25 samples :  0.0
+Accuracy with 32  prof. | 25 samples :  0.0
+Accuracy with 32  prof. | 25 samples :  0.0
+Accuracy with 32  prof. | 25 samples :  0.0
+Accuracy with 32  prof. | 25 samples :  0.0
+Accuracy with 32  prof. | 25 samples :  0.0
+Accuracy with 32  prof. | 25 samples :  0.0
+Accuracy with 32  prof. | 30 samples :  0.0
+Accuracy with 32  prof. | 30 samples :  0.0
+Accuracy with 32  prof. | 30 samples :  0.0
+Accuracy with 32  prof. | 30 samples :  0.0
+Accuracy with 32  prof. | 30 samples :  0.0
+Accuracy with 32  prof. | 30 samples :  0.0
+Accuracy with 32  prof. | 30 samples :  0.0
+Accuracy with 32  prof. | 30 samples :  0.0
+Accuracy with 32  prof. | 35 samples :  0.0
+Accuracy with 32  prof. | 35 samples :  0.0
+Accuracy with 32  prof. | 35 samples :  0.0
+Accuracy with 32  prof. | 35 samples :  0.0
+Accuracy with 32  prof. | 35 samples :  0.0
+Accuracy with 32  prof. | 35 samples :  0.0
+Accuracy with 32  prof. | 35 samples :  0.0
+Accuracy with 32  prof. | 35 samples :  0.0
+Accuracy with 32  prof. | 40 samples :  0.0
+Accuracy with 32  prof. | 40 samples :  0.0
+Accuracy with 32  prof. | 40 samples :  0.0
+Accuracy with 32  prof. | 40 samples :  0.0
+Accuracy with 32  prof. | 40 samples :  0.0
+Accuracy with 32  prof. | 40 samples :  0.0
+Accuracy with 32  prof. | 40 samples :  0.0
+Accuracy with 32  prof. | 40 samples :  0.0
+Accuracy with 34  prof. | 1 samples :  0.0
+Accuracy with 34  prof. | 1 samples :  0.0
+Accuracy with 34  prof. | 1 samples :  0.0
+Accuracy with 34  prof. | 1 samples :  0.0
+Accuracy with 34  prof. | 1 samples :  0.0013333333333333333
+Accuracy with 34  prof. | 1 samples :  0.0
+Accuracy with 34  prof. | 1 samples :  0.00044444444444444447
+Accuracy with 34  prof. | 1 samples :  0.0008
+Accuracy with 34  prof. | 2 samples :  0.002
+Accuracy with 34  prof. | 2 samples :  0.0
+Accuracy with 34  prof. | 2 samples :  0.0
+Accuracy with 34  prof. | 2 samples :  0.0008
+Accuracy with 34  prof. | 2 samples :  0.0
+Accuracy with 34  prof. | 2 samples :  0.0005
+Accuracy with 34  prof. | 2 samples :  0.00044444444444444447
+Accuracy with 34  prof. | 2 samples :  0.0004
+Accuracy with 34  prof. | 3 samples :  0.0
+Accuracy with 34  prof. | 3 samples :  0.0
+Accuracy with 34  prof. | 3 samples :  0.0
+Accuracy with 34  prof. | 3 samples :  0.0
+Accuracy with 34  prof. | 3 samples :  0.0
+Accuracy with 34  prof. | 3 samples :  0.0
+Accuracy with 34  prof. | 3 samples :  0.00044444444444444447
+Accuracy with 34  prof. | 3 samples :  0.0004
+Accuracy with 34  prof. | 5 samples :  0.0
+Accuracy with 34  prof. | 5 samples :  0.0
+Accuracy with 34  prof. | 5 samples :  0.0006666666666666666
+Accuracy with 34  prof. | 5 samples :  0.0
+Accuracy with 34  prof. | 5 samples :  0.0
+Accuracy with 34  prof. | 5 samples :  0.0
+Accuracy with 34  prof. | 5 samples :  0.0
+Accuracy with 34  prof. | 5 samples :  0.0004
+Accuracy with 34  prof. | 10 samples :  0.0
+Accuracy with 34  prof. | 10 samples :  0.0
+Accuracy with 34  prof. | 10 samples :  0.0
+Accuracy with 34  prof. | 10 samples :  0.0
+Accuracy with 34  prof. | 10 samples :  0.0
+Accuracy with 34  prof. | 10 samples :  0.0
+Accuracy with 34  prof. | 10 samples :  0.0
+Accuracy with 34  prof. | 10 samples :  0.0
+Accuracy with 34  prof. | 15 samples :  0.0
+Accuracy with 34  prof. | 15 samples :  0.0
+Accuracy with 34  prof. | 15 samples :  0.0
+Accuracy with 34  prof. | 15 samples :  0.0
+Accuracy with 34  prof. | 15 samples :  0.0
+Accuracy with 34  prof. | 15 samples :  0.0
+Accuracy with 34  prof. | 15 samples :  0.0
+Accuracy with 34  prof. | 15 samples :  0.0
+Accuracy with 34  prof. | 20 samples :  0.0
+Accuracy with 34  prof. | 20 samples :  0.0
+Accuracy with 34  prof. | 20 samples :  0.0
+Accuracy with 34  prof. | 20 samples :  0.0
+Accuracy with 34  prof. | 20 samples :  0.0
+Accuracy with 34  prof. | 20 samples :  0.0
+Accuracy with 34  prof. | 20 samples :  0.0
+Accuracy with 34  prof. | 20 samples :  0.0
+Accuracy with 34  prof. | 25 samples :  0.0
+Accuracy with 34  prof. | 25 samples :  0.0
+Accuracy with 34  prof. | 25 samples :  0.0
+Accuracy with 34  prof. | 25 samples :  0.0
+Accuracy with 34  prof. | 25 samples :  0.0
+Accuracy with 34  prof. | 25 samples :  0.0
+Accuracy with 34  prof. | 25 samples :  0.0
+Accuracy with 34  prof. | 25 samples :  0.0
+Accuracy with 34  prof. | 30 samples :  0.0
+Accuracy with 34  prof. | 30 samples :  0.0
+Accuracy with 34  prof. | 30 samples :  0.0
+Accuracy with 34  prof. | 30 samples :  0.0
+Accuracy with 34  prof. | 30 samples :  0.0
+Accuracy with 34  prof. | 30 samples :  0.0
+Accuracy with 34  prof. | 30 samples :  0.0
+Accuracy with 34  prof. | 30 samples :  0.0
+Accuracy with 34  prof. | 35 samples :  0.0
+Accuracy with 34  prof. | 35 samples :  0.0
+Accuracy with 34  prof. | 35 samples :  0.0
+Accuracy with 34  prof. | 35 samples :  0.0
+Accuracy with 34  prof. | 35 samples :  0.0
+Accuracy with 34  prof. | 35 samples :  0.0
+Accuracy with 34  prof. | 35 samples :  0.0
+Accuracy with 34  prof. | 35 samples :  0.0
+Accuracy with 34  prof. | 40 samples :  0.0
+Accuracy with 34  prof. | 40 samples :  0.0
+Accuracy with 34  prof. | 40 samples :  0.0
+Accuracy with 34  prof. | 40 samples :  0.0
+Accuracy with 34  prof. | 40 samples :  0.0
+Accuracy with 34  prof. | 40 samples :  0.0
+Accuracy with 34  prof. | 40 samples :  0.0
+Accuracy with 34  prof. | 40 samples :  0.0
+Accuracy with 40  prof. | 1 samples :  0.0
+Accuracy with 40  prof. | 1 samples :  0.002
+Accuracy with 40  prof. | 1 samples :  0.0013333333333333333
+Accuracy with 40  prof. | 1 samples :  0.0
+Accuracy with 40  prof. | 1 samples :  0.0
+Accuracy with 40  prof. | 1 samples :  0.0015
+Accuracy with 40  prof. | 1 samples :  0.0
+Accuracy with 40  prof. | 1 samples :  0.0004
+Accuracy with 40  prof. | 2 samples :  0.002
+Accuracy with 40  prof. | 2 samples :  0.002
+Accuracy with 40  prof. | 2 samples :  0.0
+Accuracy with 40  prof. | 2 samples :  0.0
+Accuracy with 40  prof. | 2 samples :  0.0006666666666666666
+Accuracy with 40  prof. | 2 samples :  0.0005
+Accuracy with 40  prof. | 2 samples :  0.0
+Accuracy with 40  prof. | 2 samples :  0.0004
+Accuracy with 40  prof. | 3 samples :  0.0
+Accuracy with 40  prof. | 3 samples :  0.0
+Accuracy with 40  prof. | 3 samples :  0.0
+Accuracy with 40  prof. | 3 samples :  0.0016
+Accuracy with 40  prof. | 3 samples :  0.0006666666666666666
+Accuracy with 40  prof. | 3 samples :  0.0
+Accuracy with 40  prof. | 3 samples :  0.0
+Accuracy with 40  prof. | 3 samples :  0.0
+Accuracy with 40  prof. | 5 samples :  0.0
+Accuracy with 40  prof. | 5 samples :  0.0
+Accuracy with 40  prof. | 5 samples :  0.0006666666666666666
+Accuracy with 40  prof. | 5 samples :  0.0
+Accuracy with 40  prof. | 5 samples :  0.0
+Accuracy with 40  prof. | 5 samples :  0.0
+Accuracy with 40  prof. | 5 samples :  0.0
+Accuracy with 40  prof. | 5 samples :  0.0
+Accuracy with 40  prof. | 10 samples :  0.0
+Accuracy with 40  prof. | 10 samples :  0.0
+Accuracy with 40  prof. | 10 samples :  0.0
+Accuracy with 40  prof. | 10 samples :  0.0
+Accuracy with 40  prof. | 10 samples :  0.0
+Accuracy with 40  prof. | 10 samples :  0.0
+Accuracy with 40  prof. | 10 samples :  0.00044444444444444447
+Accuracy with 40  prof. | 10 samples :  0.0
+Accuracy with 40  prof. | 15 samples :  0.0
+Accuracy with 40  prof. | 15 samples :  0.0
+Accuracy with 40  prof. | 15 samples :  0.0
+Accuracy with 40  prof. | 15 samples :  0.0
+Accuracy with 40  prof. | 15 samples :  0.0
+Accuracy with 40  prof. | 15 samples :  0.0
+Accuracy with 40  prof. | 15 samples :  0.0
+Accuracy with 40  prof. | 15 samples :  0.0
+Accuracy with 40  prof. | 20 samples :  0.0
+Accuracy with 40  prof. | 20 samples :  0.0
+Accuracy with 40  prof. | 20 samples :  0.0
+Accuracy with 40  prof. | 20 samples :  0.0
+Accuracy with 40  prof. | 20 samples :  0.0
+Accuracy with 40  prof. | 20 samples :  0.0
+Accuracy with 40  prof. | 20 samples :  0.0
+Accuracy with 40  prof. | 20 samples :  0.0
+Accuracy with 40  prof. | 25 samples :  0.0
+Accuracy with 40  prof. | 25 samples :  0.0
+Accuracy with 40  prof. | 25 samples :  0.0
+Accuracy with 40  prof. | 25 samples :  0.0
+Accuracy with 40  prof. | 25 samples :  0.0
+Accuracy with 40  prof. | 25 samples :  0.0
+Accuracy with 40  prof. | 25 samples :  0.0
+Accuracy with 40  prof. | 25 samples :  0.0
+Accuracy with 40  prof. | 30 samples :  0.0
+Accuracy with 40  prof. | 30 samples :  0.0
+Accuracy with 40  prof. | 30 samples :  0.0
+Accuracy with 40  prof. | 30 samples :  0.0
+Accuracy with 40  prof. | 30 samples :  0.0
+Accuracy with 40  prof. | 30 samples :  0.0
+Accuracy with 40  prof. | 30 samples :  0.0
+Accuracy with 40  prof. | 30 samples :  0.0
+Accuracy with 40  prof. | 35 samples :  0.0
+Accuracy with 40  prof. | 35 samples :  0.0
+Accuracy with 40  prof. | 35 samples :  0.0
+Accuracy with 40  prof. | 35 samples :  0.0
+Accuracy with 40  prof. | 35 samples :  0.0
+Accuracy with 40  prof. | 35 samples :  0.0
+Accuracy with 40  prof. | 35 samples :  0.0
+Accuracy with 40  prof. | 35 samples :  0.0
+Accuracy with 40  prof. | 40 samples :  0.0
+Accuracy with 40  prof. | 40 samples :  0.0
+Accuracy with 40  prof. | 40 samples :  0.0
+Accuracy with 40  prof. | 40 samples :  0.0
+Accuracy with 40  prof. | 40 samples :  0.0
+Accuracy with 40  prof. | 40 samples :  0.0
+Accuracy with 40  prof. | 40 samples :  0.0
+Accuracy with 40  prof. | 40 samples :  0.0
+Accuracy with 45  prof. | 1 samples :  0.002
+Accuracy with 45  prof. | 1 samples :  0.0
+Accuracy with 45  prof. | 1 samples :  0.0006666666666666666
+Accuracy with 45  prof. | 1 samples :  0.0008
+Accuracy with 45  prof. | 1 samples :  0.0006666666666666666
+Accuracy with 45  prof. | 1 samples :  0.0
+Accuracy with 45  prof. | 1 samples :  0.0
+Accuracy with 45  prof. | 1 samples :  0.0
+Accuracy with 45  prof. | 2 samples :  0.0
+Accuracy with 45  prof. | 2 samples :  0.002
+Accuracy with 45  prof. | 2 samples :  0.0
+Accuracy with 45  prof. | 2 samples :  0.0
+Accuracy with 45  prof. | 2 samples :  0.0
+Accuracy with 45  prof. | 2 samples :  0.0
+Accuracy with 45  prof. | 2 samples :  0.00044444444444444447
+Accuracy with 45  prof. | 2 samples :  0.0004
+Accuracy with 45  prof. | 3 samples :  0.0
+Accuracy with 45  prof. | 3 samples :  0.001
+Accuracy with 45  prof. | 3 samples :  0.0006666666666666666
+Accuracy with 45  prof. | 3 samples :  0.0008
+Accuracy with 45  prof. | 3 samples :  0.0
+Accuracy with 45  prof. | 3 samples :  0.0005
+Accuracy with 45  prof. | 3 samples :  0.0
+Accuracy with 45  prof. | 3 samples :  0.0
+Accuracy with 45  prof. | 5 samples :  0.0
+Accuracy with 45  prof. | 5 samples :  0.0
+Accuracy with 45  prof. | 5 samples :  0.0
+Accuracy with 45  prof. | 5 samples :  0.0
+Accuracy with 45  prof. | 5 samples :  0.0
+Accuracy with 45  prof. | 5 samples :  0.0
+Accuracy with 45  prof. | 5 samples :  0.0
+Accuracy with 45  prof. | 5 samples :  0.0
+Accuracy with 45  prof. | 10 samples :  0.0
+Accuracy with 45  prof. | 10 samples :  0.0
+Accuracy with 45  prof. | 10 samples :  0.0
+Accuracy with 45  prof. | 10 samples :  0.0
+Accuracy with 45  prof. | 10 samples :  0.0
+Accuracy with 45  prof. | 10 samples :  0.0
+Accuracy with 45  prof. | 10 samples :  0.0
+Accuracy with 45  prof. | 10 samples :  0.0
+Accuracy with 45  prof. | 15 samples :  0.0
+Accuracy with 45  prof. | 15 samples :  0.0
+Accuracy with 45  prof. | 15 samples :  0.0
+Accuracy with 45  prof. | 15 samples :  0.0
+Accuracy with 45  prof. | 15 samples :  0.0
+Accuracy with 45  prof. | 15 samples :  0.0
+Accuracy with 45  prof. | 15 samples :  0.00044444444444444447
+Accuracy with 45  prof. | 15 samples :  0.0
+Accuracy with 45  prof. | 20 samples :  0.0
+Accuracy with 45  prof. | 20 samples :  0.0
+Accuracy with 45  prof. | 20 samples :  0.0
+Accuracy with 45  prof. | 20 samples :  0.0
+Accuracy with 45  prof. | 20 samples :  0.0
+Accuracy with 45  prof. | 20 samples :  0.0
+Accuracy with 45  prof. | 20 samples :  0.0
+Accuracy with 45  prof. | 20 samples :  0.0
+Accuracy with 45  prof. | 25 samples :  0.0
+Accuracy with 45  prof. | 25 samples :  0.0
+Accuracy with 45  prof. | 25 samples :  0.0
+Accuracy with 45  prof. | 25 samples :  0.0
+Accuracy with 45  prof. | 25 samples :  0.0
+Accuracy with 45  prof. | 25 samples :  0.0
+Accuracy with 45  prof. | 25 samples :  0.0
+Accuracy with 45  prof. | 25 samples :  0.0
+Accuracy with 45  prof. | 30 samples :  0.0
+Accuracy with 45  prof. | 30 samples :  0.0
+Accuracy with 45  prof. | 30 samples :  0.0
+Accuracy with 45  prof. | 30 samples :  0.0
+Accuracy with 45  prof. | 30 samples :  0.0
+Accuracy with 45  prof. | 30 samples :  0.0
+Accuracy with 45  prof. | 30 samples :  0.0
+Accuracy with 45  prof. | 30 samples :  0.0
+Accuracy with 45  prof. | 35 samples :  0.0
+Accuracy with 45  prof. | 35 samples :  0.0
+Accuracy with 45  prof. | 35 samples :  0.0
+Accuracy with 45  prof. | 35 samples :  0.0
+Accuracy with 45  prof. | 35 samples :  0.0
+Accuracy with 45  prof. | 35 samples :  0.0
+Accuracy with 45  prof. | 35 samples :  0.0
+Accuracy with 45  prof. | 35 samples :  0.0
+Accuracy with 45  prof. | 40 samples :  0.0
+Accuracy with 45  prof. | 40 samples :  0.0
+Accuracy with 45  prof. | 40 samples :  0.0
+Accuracy with 45  prof. | 40 samples :  0.0
+Accuracy with 45  prof. | 40 samples :  0.0
+Accuracy with 45  prof. | 40 samples :  0.0
+Accuracy with 45  prof. | 40 samples :  0.0
+Accuracy with 45  prof. | 40 samples :  0.0
+Les meilleurs param sont :  2 prof. | 1 sample| 0.1 size. Bravo !
+Score : 0.002
+----------------------------------------------
+Les meilleurs param sont :  45 prof. | 5 sample| 0.1 size. Bravo !
+Score : 0.9633507853403142
+Les meilleurs param sont :  34 prof. | 20 sample| 0.1 size. Bravo !
+Score : 0.9633507853403142
+Les meilleurs param sont :  45 prof. | 2 sample| 0.1 size. Bravo !
+Score : 0.9633507853403142
+Les meilleurs param sont :  37 prof. | 2 sample| 0.2 size. Bravo !
+Score : 0.9594240837696335
+Les meilleurs param sont :  40 prof. | 2 sample| 0.1 size. Bravo !
+Score : 0.9607329842931938
+Les meilleurs param sont :  35 prof. | 2 sample| 0.1 size. Bravo !
+Score : 0.9607329842931938
+Les meilleurs param sont :  34 prof. | 2 sample| 0.1 size. Bravo !
+Score : 0.9607329842931938
+Les meilleurs param sont :  34 prof. | 20 sample| 0.2 size. Bravo !
+Score : 0.9620418848167539
+Les meilleurs param sont :  30 prof. | 10 sample| 0.2 size. Bravo !
+Score : 0.9581151832460733
+Les meilleurs param sont :  30 prof. | 15 sample| 0.1 size. Bravo !
+Score : 0.9607329842931938
+Les meilleurs param sont :  40 prof. | 5 sample| 0.1 size. Bravo !
+Score : 0.9685863874345549
+Les meilleurs param sont :  40 prof. | 5 sample| 0.1 size. Bravo !
+Score : 0.9633507853403142
+Les meilleurs param sont :  34 prof. | 2 sample| 0.2 size. Bravo !
+Score : 0.9607329842931938
+Les meilleurs param sont :  40 prof. | 3 sample| 0.25 size. Bravo !
+Score : 0.9602094240837696
+Les meilleurs param sont :  35 prof. | 10 sample| 0.3 size. Bravo !
+Score : 0.9581151832460733
+Les meilleurs param sont :  25 prof. | 25 sample| 0.1 size. Bravo !
+Score : 0.9607329842931938
+Les meilleurs param sont :  30 prof. | 3 sample| 0.1 size. Bravo !
+Score : 0.9633507853403142
+Les meilleurs param sont :  38 prof. | 3 sample| 0.1 size. Bravo !
+Score : 0.9633507853403142
+Les meilleurs param sont :  34 prof. | 3 sample| 0.1 size. Bravo !
+Score : 0.9633507853403142
+Les meilleurs param sont :  45 prof. | 5 sample| 0.1 size. Bravo !
+Score : 0.9633507853403142
+Les meilleurs param sont :  37 prof. | 15 sample| 0.2 size. Bravo !
+Score : 0.9594240837696335
+Les meilleurs param sont :  40 prof. | 10 sample| 0.4 size. Bravo !
+Score : 0.9594240837696335
+Les meilleurs param sont :  37 prof. | 2 sample| 0.25 size. Bravo !
+Score : 0.9581151832460733
+Les meilleurs param sont :  30 prof. | 3 sample| 0.1 size. Bravo !
+Score : 0.9607329842931938
+Les meilleurs param sont :  30 prof. | 20 sample| 0.1 size. Bravo !
+Score : 0.9581151832460733
